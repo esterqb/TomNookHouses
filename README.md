@@ -2,6 +2,9 @@
 
 **Nook's Homes** es una aplicación de gestión inmobiliaria desarrollada para el módulo de **Programación Multimedia y Dispositivos Móviles (2º DAM)**. La aplicación permite a los usuarios explorar un catálogo de viviendas inspiradas en el universo de *Animal Crossing*, visualizar detalles específicos y registrar nuevas propiedades con soporte multimedia.
 
+<img width="647" height="431" alt="house_logo" src="https://github.com/user-attachments/assets/433734e9-c837-4789-bb12-892a319367a7" />
+
+
 ## 🚀 Características
 
 * **Arquitectura MVVM**: Separación clara entre la interfaz de usuario, la lógica de negocio y la persistencia de datos.
@@ -39,10 +42,6 @@ El código está organizado siguiendo las mejores prácticas y los requisitos de
 
 > [!IMPORTANT]
 > **Nota sobre permisos**: Al registrar una casa, la app solicita permisos de lectura para la galería. Se ha implementado **persistencia de permisos** para asegurar que las imágenes seleccionadas sigan siendo visibles incluso después de reiniciar el dispositivo.
-
-## 📝 Documentación Técnica
-
-El detalle exhaustivo sobre el esquema de navegación, el funcionamiento del intermediario Room y la gestión de estados se encuentra disponible en el **documento PDF adjunto** en la entrega del proyecto.
 
 ---
 Las imágenes del videojuego Animal Crossing pertenecen a Nintendo, NO son mi creación. Esta aplicación no es lucrativa, es para mi aprendizaje con la estética de este videojuego.
